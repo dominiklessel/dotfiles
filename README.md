@@ -79,6 +79,10 @@ When setting up a new Mac, you may want to install some common [Homebrew](http:/
 ./brew.sh
 ```
 
+### Update OSX Bash
+
+See https://vinkla.com/posts/update-bash-mac-osx/
+
 ## Feedback
 
 Suggestions/improvements
