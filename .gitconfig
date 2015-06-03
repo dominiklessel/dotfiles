@@ -172,3 +172,10 @@
 [url "git://gist.github.com/"]
 
   insteadOf = "gist:"
+
+[user]
+  name = Dominik Lessel
+  email = dominik@mifitto.com
+
+[credential]
+  helper = osxkeychain
